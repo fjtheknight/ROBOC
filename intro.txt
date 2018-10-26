@@ -1,0 +1,38 @@
+
+
+ /$$$$$$$   /$$$$$$  /$$$$$$$   /$$$$$$   /$$$$$$
+| $$__  $$ /$$__  $$| $$__  $$ /$$__  $$ /$$__  $$
+| $$  \ $$| $$  \ $$| $$  \ $$| $$  \ $$| $$  \__/
+| $$$$$$$/| $$  | $$| $$$$$$$ | $$  | $$| $$
+| $$__  $$| $$  | $$| $$__  $$| $$  | $$| $$
+| $$  \ $$| $$  | $$| $$  \ $$| $$  | $$| $$    $$
+| $$  | $$|  $$$$$$/| $$$$$$$/|  $$$$$$/|  $$$$$$/
+|__/  |__/ \______/ |_______/  \______/  \______/
+
+BY FIRAS JRIBI AKA FJTHEKNIGHT
+
+--------------------------------------------------
+
+Bienvenus au jeu de labyrinthe ROBOC!
+Essayez de guider votre robot vers la sortie du labyrinthe! 
+
+Commandes:
+ - s: sud
+ - e: est
+ - o: ouest
+ - n: nord
+ - q: enregistrer et quitter
+
+ Vous pouvez spécifier le nombre de pas à effectuer :
+ exemple : s2 => 2 pas vers le sud
+ 9 pas maximum
+
+Labyrinthe:
+- O: mur
+- .: porte
+- U: sortie
+- X: ROBOC
+
+ Amusez-vous bien :D
+
+--------------------------------------------------
